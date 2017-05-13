@@ -28,6 +28,12 @@
     white-space: nowrap;
 }
 
+@media screen and (max-width: 414px) {
+    .eeyes-common-footer-banner h1 {
+        font-size: 22px;
+    }
+}
+
 .eeyes-common-footer-banner p {
     color: #666;
     padding-top: 28px;
