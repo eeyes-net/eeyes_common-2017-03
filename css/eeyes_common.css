@@ -42,12 +42,12 @@
 .eeyes-common-footer-banner-logo {
     margin-right: .2em;
     height: 1em;
-    vertical-align: top;
+    vertical-align: bottom;
 }
 
 .eeyes-common-footer-banner-text {
     line-height: 1;
-    vertical-align: middle;
+    vertical-align: bottom;
 }
 
 .eeyes-common-footer-logo-container {
