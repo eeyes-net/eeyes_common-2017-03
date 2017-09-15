@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'http://img.eeyes.net/eeyes_common/');
+define('BASE_URL', '//img.eeyes.net/eeyes_common/');
 
 $html = file_get_contents(__DIR__ . '/index.html');
 
